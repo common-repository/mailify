@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-17 14:21+0000\n"
+"PO-Revision-Date: 2018-07-17 14:21+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: class.sarbacane-about.php:7 class.sarbacane-lists-sync.php:8
+#: class.sarbacane-lists-sync.php:9 views/sarbacane-adminpanel.php:7
+msgid "Configuration"
+msgstr "Configuración"
+
+#: class.sarbacane-about.php:8
+msgid "Mailify"
+msgstr "Mailify"
+
+#: class.sarbacane.php:9 class.sarbacane-newsletterwidget.php:109
+#: class.sarbacane-newsletterwidget.php:189
+msgid "Inscription"
+msgstr "Inscripción"
+
+#: class.sarbacane.php:148 class.sarbacane.php:149
+msgid "Connection"
+msgstr "Interconexión"
+
+#: class.sarbacane.php:168
+msgid "A new key has been generated"
+msgstr "Se ha generado una clave"
+
+#: class.sarbacane-newsletterwidget.php:11
+msgid "Mailify Newsletter"
+msgstr "Newsletter Mailify"
+
+#: class.sarbacane-newsletterwidget.php:13
+msgid ""
+"Have visitors fill out this form and the associated list will be updated "
+"accordingly"
+msgstr ""
+"Actualiza una lista de contactos en Mailify gracias a este formulario "
+"rellenado por tus visitantes"
+
+#: class.sarbacane-newsletterwidget.php:21
+#: class.sarbacane-newsletterwidget.php:22
+msgid "Widget"
+msgstr "Widget"
+
+#: class.sarbacane-newsletterwidget.php:83
+#: class.sarbacane-newsletterwidget.php:188
+msgid "Congrats! You signed up for our newsletter."
+msgstr "¡Enhorabuena! Acabas de inscribirte a nuestra newsletter"
+
+#: class.sarbacane-newsletterwidget.php:87
+msgid "Email isn't valid."
+msgstr "El email no es válido."
+
+#: class.sarbacane-newsletterwidget.php:98
+#: class.sarbacane-newsletterwidget.php:186
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: class.sarbacane-newsletterwidget.php:110
+#: class.sarbacane-newsletterwidget.php:190
+msgid "Fields marked with * are mandatory"
+msgstr "Los campos con el símbolo * son obligatorios"
+
+#: class.sarbacane-newsletterwidget.php:136
+msgid "Setup this widget by clicking the Mailify widget menu"
+msgstr "Configurar este widget a través del menú Widget Mailify"
+
+#: views/sarbacane-adminpanel.php:11
+msgid "URL to paste in Mailify"
+msgstr "URL a indicar en Mailify"
+
+#: views/sarbacane-adminpanel.php:15
+msgid "Synchronization key to enter in Mailify"
+msgstr "Clave a insertar en Mailify"
+
+#: views/sarbacane-adminpanel.php:18
+msgid "Connected"
+msgstr "Conectada"
+
+#: views/sarbacane-adminpanel.php:20
+msgid "Disconnected"
+msgstr "No conectado"
+
+#: views/sarbacane-adminpanel.php:23
+msgid "Please generate a new key"
+msgstr "Gracias generar una nueva clave"
+
+#: views/sarbacane-adminpanel.php:32
+msgid "Generate another key"
+msgstr "Generar una nueva clave"
+
+#: views/sarbacane-adminpanel.php:34
+msgid "Generate a key"
+msgstr "Generar una nueva clave"
+
+#: views/sarbacane-adminpanel.php:42
+msgid "Setup the widget"
+msgstr "Configurar el widget"
+
+#: views/sarbacane-adminpanel.php:49
+msgid "How to set up the module?"
+msgstr "¿Cómo configurar el módulo?"
+
+#: views/sarbacane-adminpanel.php:51
+msgid "Go in the plugins menu of Mailify and activate wordpress plugin"
+msgstr ""
+"Activa la extensión WordPress desde el menú ''Extensiones'' en Mailify e "
+"introduce los siguientes datos:"
+
+#: views/sarbacane-adminpanel.php:53
+msgid "Learn more"
+msgstr "Leer más"
+
+#: views/sarbacane-adminpanel.php:53
+msgid ""
+"https://static.mailify.com/ws/soft-redirect.asp?"
+"key=9Y4OtEZzaz&com=WordpressInfo"
+msgstr ""
+"https://static.mailify.com/ws/soft-redirect.asp?"
+"key=9Y4OtEZzaz&com=WordpressInfo&lng=ES"
+
+#: views/sarbacane-adminpanel.php:53
+msgid "Take a look at the help section online"
+msgstr "ayuda en línea"
+
+#: views/sarbacane-adminpanel.php:57 views/sarbacane-about.php:78
+#: views/sarbacane-widget-adminpanel.php:226 views/sarbacane-lists-sync.php:68
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: views/sarbacane-adminpanel.php:59 views/sarbacane-about.php:82
+#: views/sarbacane-widget.php:16 views/sarbacane-widget-adminpanel.php:49
+#: views/sarbacane-widget-adminpanel.php:229 views/sarbacane-lists-sync.php:70
+msgid "Email"
+msgstr "Email"
+
+#: views/sarbacane-adminpanel.php:59 views/sarbacane-about.php:82
+#: views/sarbacane-widget-adminpanel.php:229 views/sarbacane-lists-sync.php:70
+msgid "help@mailify.com"
+msgstr "ayuda@mailify.com"
+
+#: views/sarbacane-adminpanel.php:59 views/sarbacane-about.php:85
+#: views/sarbacane-widget-adminpanel.php:231 views/sarbacane-lists-sync.php:70
+msgid "Phone"
+msgstr "Tel"
+
+#: views/sarbacane-adminpanel.php:59 views/sarbacane-about.php:85
+#: views/sarbacane-widget-adminpanel.php:231 views/sarbacane-lists-sync.php:70
+msgid "(646)-844-0983"
+msgstr "+34 93 476 36 38"
+
+#: views/sarbacane-adminpanel.php:60 views/sarbacane-widget-adminpanel.php:233
+#: views/sarbacane-lists-sync.php:71
+msgid "For more informations, please take a look to our website"
+msgstr "Para más información, por favor, visita nuestra página web"
+
+#: views/sarbacane-adminpanel.php:60 views/sarbacane-about.php:88
+#: views/sarbacane-widget-adminpanel.php:235 views/sarbacane-lists-sync.php:71
+msgid ""
+"http://mailify.com/?utm_source=module-"
+"wordpress&utm_medium=plugin&utm_content=lien-sarbacane&utm_campaign=wordpress"
+msgstr ""
+"http://es.mailify.com?utm_source=module-"
+"wordpress&utm_medium=plugin&utm_content=lien-"
+"sarbacane&utm_campaign=wordpress&lng=ES"
+
+#: views/sarbacane-adminpanel.php:60 views/sarbacane-about.php:88
+#: views/sarbacane-widget-adminpanel.php:236 views/sarbacane-lists-sync.php:71
+msgid "http://www.mailify.com"
+msgstr "http://es.mailify.com"
+
+#: views/sarbacane-about.php:4
+msgid "Easily manage your newsletters and email marketing campaigns"
+msgstr "Gestiona tus newsletters y emailing con facilidad"
+
+#: views/sarbacane-about.php:11
+msgid ""
+"This module lets you synchronize subscribers and accounts from your "
+"WordPress site with Mailify to take advantage of all its email marketing "
+"features."
+msgstr ""
+"Este módulo WordPress permite sincronizar las cuentas y altas en la "
+"newsletter de tu tienda online con la aplicación de mailing Mailify, y "
+"disfrutar de innumerables características..."
+
+#: views/sarbacane-about.php:19
+msgid "Synchronization of your website data"
+msgstr "Datos de la tienda sincronizados"
+
+#: views/sarbacane-about.php:23
+msgid "Synchronize and manage all the email lists from your WordPress website"
+msgstr "Sincroniza y gestiona todas tus listas de tu página WordPress"
+
+#: views/sarbacane-about.php:29
+msgid "Responsive visual editor"
+msgstr "Editor gráfico responsive"
+
+#: views/sarbacane-about.php:33
+msgid "Create beautiful, mobile-responsive emails with the EmailBuilder"
+msgstr "Crea plantillas de newsletter impresionantes con el EmailBuilder"
+
+#: views/sarbacane-about.php:39
+msgid "Detailed statistics"
+msgstr "Estadísticas detalladas"
+
+#: views/sarbacane-about.php:43
+msgid "Geolocation, openings, read time, clicks, opt-outs..."
+msgstr "Geolocalización, aperturas, tiempos de lectura, clics, bajas,..."
+
+#: views/sarbacane-about.php:49
+msgid "Optimal deliverability"
+msgstr "Entregabilidad óptima"
+
+#: views/sarbacane-about.php:53
+msgid "Best in class deliverability thanks for our unrivaled routing platform"
+msgstr ""
+"Entregabilidad optimizada gracias a nuestra reconocida plataforma de "
+"enrutamiento profesional"
+
+#: views/sarbacane-about.php:59 views/sarbacane-about.php:67
+msgid "Create your free account and start sending emails"
+msgstr "Creación de cuenta y primeros envíos gratuitos"
+
+#: views/sarbacane-about.php:60
+msgid "No strings attached"
+msgstr "Oferta sin compromisos"
+
+#: views/sarbacane-about.php:65
+msgid "Why choose Mailify?"
+msgstr "¿Por qué elegir Mailify?"
+
+#: views/sarbacane-about.php:68
+msgid "Loved by over 25,000 users"
+msgstr ""
+"Más de 20.000 usuarios en España y Francia están encantados por Mailify"
+
+#: views/sarbacane-about.php:69
+msgid ""
+"Awarded Best Emailing Solution by Bsoco Awards (an index that compares "
+"emailing solutions)"
+msgstr "Elegidos como Mejor Solución de Emailing por los Premios Bsoco"
+
+#: views/sarbacane-about.php:70
+msgid ""
+"All you need to succeed: design, customize, send, and analyze your campaigns"
+msgstr ""
+"Todo lo que necesitas para tener éxito: diseño, personalización, envío y "
+"seguimiento de tus campañas"
+
+#: views/sarbacane-about.php:71
+msgid ""
+"Live tech support and a variety of helpful resources: videos, tutorials, "
+"manuals, and a blog full of advice..."
+msgstr ""
+"Soporte técnico y numerosos recursos para asistirte: vídeos, tutoriales, "
+"guías, consejos..."
+
+#: views/sarbacane-about.php:88
+msgid "Website"
+msgstr "Web"
+
+#: views/sarbacane-widget-adminpanel.php:13
+msgid "Widget settings"
+msgstr "Parámetros del widget"
+
+#: views/sarbacane-widget-adminpanel.php:19
+msgid "Title"
+msgstr "Título"
+
+#: views/sarbacane-widget-adminpanel.php:31
+msgid "Description"
+msgstr "Descripción"
+
+#: views/sarbacane-widget-adminpanel.php:58
+#: views/sarbacane-widget-adminpanel.php:246
+msgid "Field"
+msgstr "Campo"
+
+#: views/sarbacane-widget-adminpanel.php:68
+#: views/sarbacane-widget-adminpanel.php:136
+#: views/sarbacane-widget-adminpanel.php:150
+#: views/sarbacane-widget-adminpanel.php:255
+msgid "Name"
+msgstr "Título"
+
+#: views/sarbacane-widget-adminpanel.php:87
+#: views/sarbacane-widget-adminpanel.php:264
+msgid "Placeholder"
+msgstr "Texto por defecto"
+
+#: views/sarbacane-widget-adminpanel.php:96
+#: views/sarbacane-widget-adminpanel.php:273
+msgid "Mandatory"
+msgstr "Obligatorio"
+
+#: views/sarbacane-widget-adminpanel.php:103
+#: views/sarbacane-widget-adminpanel.php:280 views/sarbacane-lists-sync.php:79
+msgid "Yes"
+msgstr "Sí"
+
+#: views/sarbacane-widget-adminpanel.php:110
+#: views/sarbacane-widget-adminpanel.php:288 views/sarbacane-lists-sync.php:80
+msgid "No"
+msgstr "No"
+
+#: views/sarbacane-widget-adminpanel.php:123
+msgid "Add field"
+msgstr "Añadir un campo"
+
+#: views/sarbacane-widget-adminpanel.php:134
+msgid "Button name"
+msgstr "Botón de validación"
+
+#: views/sarbacane-widget-adminpanel.php:148
+msgid "Mandatory fields message"
+msgstr "Obligatorios campos mensaje"
+
+#: views/sarbacane-widget-adminpanel.php:161
+msgid "Legal notice"
+msgstr "Avisos legales"
+
+#: views/sarbacane-widget-adminpanel.php:164
+msgid "Mentions"
+msgstr "Menciones"
+
+#: views/sarbacane-widget-adminpanel.php:174
+msgid "Url"
+msgstr "Url"
+
+#: views/sarbacane-widget-adminpanel.php:186
+msgid "Successful form submission message"
+msgstr "Mensaje al registrarse"
+
+#: views/sarbacane-widget-adminpanel.php:201 views/sarbacane-lists-sync.php:59
+msgid "Save"
+msgstr "Guardar la configuración"
+
+#: views/sarbacane-widget-adminpanel.php:209
+msgid "Preview"
+msgstr "Vista Previa"
+
+#: views/sarbacane-widget-adminpanel.php:218
+msgid "Information"
+msgstr "Informaciones"
+
+#: views/sarbacane-widget-adminpanel.php:220
+msgid ""
+"This tool allows you to create a form widget that you can add to WordPress"
+msgstr ""
+"Esta herramienta te permite configurar un widget a añadir en tu página "
+"WordPress"
+
+#: views/sarbacane-widget-adminpanel.php:221
+msgid "The widget will sync subscribers with your Mailify contact list"
+msgstr "Este widget añadirá direcciones en una lista de Mailify"
+
+#: views/sarbacane-widget-adminpanel.php:222
+msgid "All data from the widget will be available in your list"
+msgstr "Todos los campos del widget estarán en la lista"
+
+#: views/sarbacane-widget-adminpanel.php:223
+msgid ""
+"Any changes in the structure of the form will cause a refresh of the "
+"associated list in Mailify."
+msgstr ""
+"El cambio de la estructura del widget supondrá la reinicialización de la "
+"lista en Mailify"
+
+#: views/sarbacane-lists-sync.php:8
+msgid "Mailify's plugin setup"
+msgstr "Configuración del modulo Mailify"
+
+#: views/sarbacane-lists-sync.php:12
+msgid "Lists synchronization"
+msgstr "Sincronización de las listas"
+
+#: views/sarbacane-lists-sync.php:16
+msgid "Synchronize a ''WordPress Users'' list"
+msgstr "Sincronizar una lista \"usuarios de WordPress\""
+
+#: views/sarbacane-lists-sync.php:18
+msgid ""
+"Creates a WordPress users list in Mailify with all users who have an account "
+"on your blog or website."
+msgstr ""
+"Creación de una lista 'Usuarios WordPress' en Mailify que contiene todos los "
+"usuarios que disponen de una cuenta en su blog o página web."
+
+#: views/sarbacane-lists-sync.php:22
+msgid "Automatically synchronize your subscriber list"
+msgstr "Sincronizar una lista \"Inscripción WordPress\""
+
+#: views/sarbacane-lists-sync.php:24
+msgid ""
+"Enables the widget menu on the left menu. It allows you to create an opt-in "
+"form which adds subscribers to a list in Mailify. This contact list will "
+"only be accessible in Mailify"
+msgstr ""
+"Activa el menú 'Widget' en el menú lateral. Este permite crear un formulario "
+"opt-in para alimentar una lista de suscriptores en Mailify. Esta lista de "
+"contactos será accessible únicamente en Mailify."
+
+#: views/sarbacane-lists-sync.php:30
+msgid "Advanced settings"
+msgstr "Parámetros avanzados"
+
+#: views/sarbacane-lists-sync.php:34
+msgid "Synchronize your WordPress theme"
+msgstr "Sincronizar el tema del blog"
+
+#: views/sarbacane-lists-sync.php:36
+msgid ""
+"Import the four main colors of your blog into a custom theme for the "
+"EmailBuilder"
+msgstr ""
+"Permite importar los cuatro colores principales de tu blog en un tema "
+"personalizado del EmailBuilder."
+
+#: views/sarbacane-lists-sync.php:40
+msgid "Synchronize blog content"
+msgstr "Sincronizar los artículos del blog"
+
+#: views/sarbacane-lists-sync.php:42
+msgid "Import all your post content in the EmailBuilder's blocks"
+msgstr ""
+"Permite importar el contenido de tus artículos en los módulos del "
+"EmailBuilder."
+
+#: views/sarbacane-lists-sync.php:46
+msgid "Synchronize media library"
+msgstr "Sincronizar la biblioteca de medios"
+
+#: views/sarbacane-lists-sync.php:48
+msgid ""
+"Import elements from your WordPress media library into the EmailBuilder "
+"image blocks"
+msgstr ""
+"Permite importar elementos de tu biblioteca multimedia de WordPress en los "
+"módulos de imagen del EmailBuilder."
+
+#: views/sarbacane-lists-sync.php:52
+msgid "Synchronize RSS data"
+msgstr "Sincronizar las noticias RSS"
+
+#: views/sarbacane-lists-sync.php:54
+msgid "Add your blog as a source for the EmailBuilder's RSS module"
+msgstr "Añade tu blog como fuente en los módulos RSS del EmailBuilder."
+
+#: views/sarbacane-lists-sync.php:77
+msgid ""
+"Careful, if you deactivate this list, the 'Contact form' widget and the "
+"associated list in Mailify will be deactivated too. Are you sure you wish to "
+"deactivate the list?"
+msgstr ""
+"Cuidado, si desactiva esta lista, el widget 'Formulario de contacto' será "
+"desactivado también. La lista en Mailify será eliminada. ¿Desea continuar?"
+
+#. Description of the plugin
+msgid "This plugin allows you to synchronize your WordPress data in Mailify"
+msgstr ""
+"Este plugin te permite sincronizar los datos de tu WordPress en Mailify"
+
+#. URI of the plugin
+msgid "http://wordpress.org/plugins/mailify/"
+msgstr "http://wordpress.org/plugins/mailify/"
+
+#. Author of the plugin
+msgid "Mailify Software"
+msgstr "Mailify Software"
